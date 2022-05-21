@@ -1,2 +1,2 @@
-# Vehicle-Simulator-Project
-Vehicle Simulator Project
+# Traffic-Simulator-Project
+Traffic Simulator Project
